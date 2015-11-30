@@ -13,3 +13,7 @@ License
 
 Copyright information can be found in the file named COPYING
 located in the root directory of this distribution.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/raj-maurya/terminal-overload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
